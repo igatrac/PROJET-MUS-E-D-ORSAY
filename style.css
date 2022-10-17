@@ -10,6 +10,12 @@ html, body {
   color: black;
 }
 
+.horaires {
+  font-weight: bolder;
+  font-family: calibri;
+}
+
+
 .texte_centrer {
   position: absolute;
   top: 20%;
