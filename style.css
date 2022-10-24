@@ -1,7 +1,7 @@
 html, body {
   height: 100%;
   width: 100%;
-  background-color: greenyellow;
+  background-color: #d6d6d6;
 }
 
 .contenant {
@@ -134,7 +134,7 @@ input[type="submit"] {
 header {
   display: flex;
   justify-content: space-between;
-  background-color: #cce8b5
+  background-color: #ffffff
 }
 footer {
   border-top: 1px solid;
